@@ -9,13 +9,25 @@
 				"informasi_asal": {
 					"jenjang": "Fungsional V",
 					"grade": "SPE02",
-					"posisi": {
-						"posisi": "Analyst Perencana Pengadaan",
-						"bagian" : "Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1",
-						"subbidang" : "Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat",
-						"bidang": "Bidang Operasional Sistem Dan Teknologi Informasi Jawa Bali Dan Nusa Tenggara",
-						"divisi": "Divisi Sistem Dan Teknologi Informasi"
-					},
+					"posisi": "Analyst Perencana Pengadaan",
+					"posisi_detail": [
+						{
+							"root_id": "1",
+							"value": "Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1"
+						},
+						{
+							"root_id": "2",
+							"value": "Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat"
+						},
+						{
+							"root_id": "3",
+							"value": "Bidang Operasional Sistem Dan Teknologi Informasi Jawa Bali Dan Nusa Tenggara"
+						},
+						{
+							"root_id": "4",
+							"value": "Divisi Sistem Dan Teknologi Informasi"
+						}
+					],
 					"subunit": "Direktorat Keuangan",
 					"unit": "PT PLN (Persero) Kantor Pusat"
 				}

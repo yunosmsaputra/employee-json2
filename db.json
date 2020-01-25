@@ -5,21 +5,45 @@
 			"mutasi_id": "1021021",
 			"nama_pegawai": "Audrey Robertson",
 			"nipeg": "7192006CP",
-			"detail": [
-				{"informasi_asal": {
-									"jenjang": "Fungsional V",
-									"grade": "SPE02",
-									"posisi": {
-										"posisi": "Analyst Perencana Pengadaan",
-										"bagian" : "Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1",
-										"subbidang" : "Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat",
-										"bidang": "Bidang Operasional Sistem Dan Teknologi Informasi Jawa Bali Dan Nusa Tenggara",
-										"divisi": "Divisi Sistem Dan Teknologi Informasi"
-									},
-									"subunit": "Direktorat Keuangan",
-									"unit": "PT PLN (Persero) Kantor Pusat"
-								}}
-			]
+			"detail": {
+				"informasi_asal": {
+					"jenjang": "Fungsional V",
+					"grade": "SPE02",
+					"posisi": {
+						"posisi": "Analyst Perencana Pengadaan",
+						"bagian" : "Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1",
+						"subbidang" : "Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat",
+						"bidang": "Bidang Operasional Sistem Dan Teknologi Informasi Jawa Bali Dan Nusa Tenggara",
+						"divisi": "Divisi Sistem Dan Teknologi Informasi"
+					},
+					"subunit": "Direktorat Keuangan",
+					"unit": "PT PLN (Persero) Kantor Pusat"
+				},
+				"tujuan_mutasi": {
+					"jenjang": "Fungsional V",
+					"grade": "SPE02",
+					"posisi": {
+						"posisi": "Analyst Perencana Pengadaan",
+						"bagian" : "Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1",
+						"subbidang" : "Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat",
+						"bidang": "Bidang Operasional Sistem Dan Teknologi Informasi Jawa Bali Dan Nusa Tenggara",
+						"divisi": "Divisi Sistem Dan Teknologi Informasi"
+					},
+					"subunit": "Direktorat Keuangan",
+					"unit": "PT PLN (Persero) Kantor Pusat"	
+				},
+				"data_pertimbangan": {
+					"manajemen": [ "Sudah siap menjajaki karir yang lebih tinggi", "Sebagai sarana belajar untuk ke jenjang yang lebih tinggi" ],
+					"prestasi": [ "Pegawai berprestasi 2019", "Pegawai berprestasi 2018" ],
+					"rating": {
+						"komunikatif": "4",
+						"komunikatif": "4",
+						"komunikatif": "4",
+						"komunikatif": "4"
+					}
+					
+				},
+			}
 		}
 	]
 }

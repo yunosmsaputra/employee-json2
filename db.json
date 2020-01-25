@@ -3,12 +3,12 @@
 		{
 			"id": "1",
 			"mutasi_id": "1021021",
-			"nama_pegawai": "Audrey Robertson",
+			"nama_pegawai": "Benetta Spaduzza",
 			"nipeg": "7192006CP",
 			"informasi_asal": {
-				"jenjang": "Fungsional V",
+				"jenjang": "Fungsional II",
 				"grade": "SPE02",
-				"posisi": "Analyst Perencana Pengadaan",
+				"posisi": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja (PLT Asisten Manager)",
 				"posisi_detail": [
 					{
 						"level_id": "1",
@@ -28,12 +28,12 @@
 					}
 				],
 				"subunit": "Direktorat Keuangan",
-				"unit": "PT PLN (Persero) Kantor Pusat"
+				"unit": "PT PLN (Persero) Wilayah Sumatera Selatan, Jambi dan Bengkulu"
 			},
 			"tujuan_mutasi": {
-				"jenjang": "Fungsional V",
+				"jenjang": "Fungsional III",
 				"grade": "SPE02",
-				"posisi": "Analyst Perencana Pengadaan",
+				"posisi": "Analyst Hubungan Industrial dan Pengawasan Tenaga Kerja",
 				"posisi_detail": [
 					{
 						"level_id": "1",
@@ -53,7 +53,7 @@
 					}
 				],
 				"subunit": "Direktorat Keuangan",
-				"unit": "PT PLN (Persero) Kantor Pusat"
+				"unit": "PT PLN (Persero) Wilayah Bangka Belitung"
 			},
 			"pertimbangan": {
 				"manajemen": [ "Sudah siap menjajaki karir yang lebih tinggi", "Sebagai sarana belajar untuk ke jenjang yang lebih tinggi"],
@@ -81,11 +81,11 @@
 				"no_surat_persetujuan_asal": "225/SDM.00.03/UIDJAYA/2019-R",
 				"no_surat_persetujuan_tujuan": "0443/SDM.00.03/UIDBANTEN/2019-R",
 				"pendidikan_terakhir": "SMA IPA",
-				"pasangan": "PLN - UP3 Semarang",
+				"pasangan": "PLN - UP3 Bangka Belitung",
 				"tanggal_mulai_tugas": "1995-05-01",
 				"tanggal_mulai_tugas_jabatan": "2018-01-01",
-				"formasi_jml_tenaga_kerja_asal": "5/90%",
-				"formasi_jml_tenaga_kerja_tujuan": "2/75%"
+				"formasi_jml_tenaga_kerja_asal": "5 / 90%",
+				"formasi_jml_tenaga_kerja_tujuan": "2 / 75%"
 			}
 		}
 	]

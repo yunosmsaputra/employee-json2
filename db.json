@@ -5,32 +5,30 @@
 			"mutasi_id": "1021021",
 			"nama_pegawai": "Audrey Robertson",
 			"nipeg": "7192006CP",
-			"detail": {
-				"informasi_asal": {
-					"jenjang": "Fungsional V",
-					"grade": "SPE02",
-					"posisi": "Analyst Perencana Pengadaan",
-					"posisi_detail": [
-						{
-							"level_id": "1",
-							"value": "Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1"
-						},
-						{
-							"level_id": "2",
-							"value": "Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat"
-						},
-						{
-							"level_id": "3",
-							"value": "Bidang Operasional Sistem Dan Teknologi Informasi Jawa Bali Dan Nusa Tenggara"
-						},
-						{
-							"level_id": "4",
-							"value": "Divisi Sistem Dan Teknologi Informasi"
-						}
-					],
-					"subunit": "Direktorat Keuangan",
-					"unit": "PT PLN (Persero) Kantor Pusat"
-				}
+			"informasi_asal": {
+				"jenjang": "Fungsional V",
+				"grade": "SPE02",
+				"posisi": "Analyst Perencana Pengadaan",
+				"posisi_detail": [
+					{
+						"level_id": "1",
+						"value": "Bagian Operasional Sistem dan Teknologi Informasi Jawa Barat 1"
+					},
+					{
+						"level_id": "2",
+						"value": "Sub Bidang Operasional Sistem dan Teknologi Informasi Jawa Barat"
+					},
+					{
+						"level_id": "3",
+						"value": "Bidang Operasional Sistem Dan Teknologi Informasi Jawa Bali Dan Nusa Tenggara"
+					},
+					{
+						"level_id": "4",
+						"value": "Divisi Sistem Dan Teknologi Informasi"
+					}
+				],
+				"subunit": "Direktorat Keuangan",
+				"unit": "PT PLN (Persero) Kantor Pusat"
 			}
 		}
 	]

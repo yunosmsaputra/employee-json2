@@ -176,5 +176,13 @@
 				"formasi_jml_tenaga_kerja_tujuan": "2 / 75%"
 			}
 		}
+	],
+	"getdetailmenyetujui": [
+		{
+			"id": "1",
+			"mutasi_id": "1021021",
+			"nama_pegawai": "Benetta Spaduzza",
+			"nipeg": "7192006CP"
+		}
 	]
 }
